@@ -1,5 +1,3 @@
-import pandas as pd
-
 #Istanbul Köy Hizmetleri Anadolu Lisesi
 # Tubitak 2204A Projesi
 #Ayfer Kilicoglu danismanliginda Sila Beril Olcay
